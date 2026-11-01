@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_description">Lets App Sweeper open an app\'s info page and tap Force stop and OK to close it. It only does this when you run a sweep or a schedule fires. It does not read or store anything else on your screen.</string>
+</resources>
